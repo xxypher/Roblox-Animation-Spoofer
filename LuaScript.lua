@@ -6,7 +6,7 @@ local Key = "NOIPLOGGER" -- DONT REPLACE THIS. THIS IS FOR THE PROXY
 local TableSpoof = {}
 
 local GroupID = nil -- PUT YOUR GROUP'S ID IF YOUR GAME IS UNDER A GROUP (default: nil)
-local UserID = 424877299 -- PUT YOUR USER ID IF YOUR GAME IS UNDER A PLAYER (default: nil)
+local UserID = nil -- PUT YOUR USER ID IF YOUR GAME IS UNDER A PLAYER (default: nil)
 
 local ScriptToSpoofPath = nil
 
